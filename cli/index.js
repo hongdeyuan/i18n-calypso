@@ -3,7 +3,7 @@
  */
 var fs = require('fs'),
   path = require('path'),
-  Xgettext = require('xgettext-js-xsky'),
+  Xgettext = require('xgettext-js-xsky-pluto'),
   preProcessXGettextJSMatch = require('./preprocess-xgettextjs-match.js'),
   formatters = require('./formatters'),
   debug = require('debug')('glotpress-js');
